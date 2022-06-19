@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amityadav_gg" target="blank"><img src="https://img.shields.io/twitter/follow/amityadav_gg?logo=twitter&style=for-the-badge" alt="amityadav_gg" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Html Css**
 
 - 📫 How to reach me **amityadav5840@gmail.com**
 
