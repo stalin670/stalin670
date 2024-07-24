@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Competitive programmer || frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?pid=ImgDet&rs=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyrant670&label=Profile%20views&color=0e75b6&style=flat" alt="tyrant670" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stalin670&label=Profile%20views&color=0e75b6&style=flat" alt="stalin670" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amityadav_gg" target="blank"><img src="https://img.shields.io/twitter/follow/amityadav_gg?logo=twitter&style=for-the-badge" alt="amityadav_gg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/stalin670" target="blank"><img src="https://img.shields.io/twitter/follow/stalin670?logo=twitter&style=for-the-badge" alt="stalin670" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 
