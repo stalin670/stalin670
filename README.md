@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Interested in exploring technologies
 - 🔭 Competitive Programmer, Frontend Developer
 - 🌱 I’m currently working on Backend
-- 💬 Ask me about **react, node, express, mongodb, go, data structures, algorithms**
+- 💬 Ask me about **react, node, go, express, mongodb, go, data structures, algorithms**
 - 📫 How to reach me: https://www.linkedin.com/in/stalin67/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stalin670&show_icons=true&locale=en&layout=compact" alt="stalin670" /></p>
