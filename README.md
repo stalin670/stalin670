@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">Competitive Programmer | Backend Developer 🚀</h3>
+<h3 align="center">Competitive Programmer | Software Developer 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Backend Development**
+- 🔭 I’m currently learning **System Design**
 - 💻 Strong in **Data Structures & Algorithms**
-- 🌱 Exploring **System Design & Scalable Applications**
+- 🌱 Exploring **Architecture & Scalable Applications**
 - ⚡ Passionate about building **real-world full-stack projects**
 
 ---
