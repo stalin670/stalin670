@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stalin670&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=stalin670&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stalin670&show_icons=true&theme=greywhite" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=stalin670&layout=compact&theme=greywhite" height="160"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalin670&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalin670&theme=github-light" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=stalin670&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=stalin670&theme=default" />
 </p>
 
 ---
