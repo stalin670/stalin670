@@ -1,21 +1,54 @@
-<hr/>
+<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
+<h3 align="center">Competitive Programmer | Backend Developer 🚀</h3>
 
-### Hi there, 👋 I am Amit Yadav
+---
 
-**stalin670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 Currently working on **Backend Development**
+- 💻 Strong in **Data Structures & Algorithms**
+- 🌱 Exploring **System Design & Scalable Applications**
+- ⚡ Passionate about building **real-world full-stack projects**
 
-Here are some ideas to get you started:
+---
 
-- 👨‍💻 Interested in exploring technologies
-- 🔭 Competitive Programmer, Frontend Developer
-- 🌱 I’m currently working on Backend
-- 💬 Ask me about **react, node, go, express, mongodb, go, data structures, algorithms**
-- 📫 How to reach me: https://www.linkedin.com/in/stalin67/
+### 🛠️ Tech Stack
+- 💡 Languages: **C++, JavaScript, Go**
+- 🌐 Frontend: **React.js**
+- 🔧 Backend: **Node.js, Express.js**
+- 🗄️ Database: **MongoDB, MySQL**
+- ⚙️ Tools: **Git, Docker (learning), Redis (learning)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stalin670&show_icons=true&locale=en&layout=compact" alt="stalin670" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stalin670&show_icons=true&locale=en" alt="stalin670" /></p>
+### 📊 GitHub Stats
 
-- 😇 **Thankyou** for being here !
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stalin670&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=stalin670&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-<hr/>
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stalin670&theme=tokyo-night" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=stalin670&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/stalin67/
+
+---
+
+### 😇 Thanks for visiting!
+⭐ Feel free to explore my repositories and connect!
